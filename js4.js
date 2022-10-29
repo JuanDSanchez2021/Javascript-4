@@ -1,6 +1,9 @@
+
+
 document.write("<br/><br/>Actividad 2<br/>")
 
 horaInicial = Number(prompt("Ingrese la hora inicial (0-23):"))
+
 
 frecuencia = Number(prompt("Ingrese la frecuencia (1-12):"))
 
